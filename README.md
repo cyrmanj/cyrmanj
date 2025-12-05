@@ -1,4 +1,4 @@
-# Hi, I'm Abraham Cyrman 👋  
+# Hi, I'm Abraham Cyrman Jiménez 👋  
 **Data Analysis & Automation Specialist | Python | SQL | Power BI | Alteryx | AWS**
 
 With 16+ years of experience in multinational and financial organizations, I specialize in **data analysis, automation, and end-to-end process improvement**. I’ve led high-impact projects across global teams (US, EMEA, Brazil, India, Germany), delivering **thousands of hours saved**, significant defect reductions, and improved operational accuracy.
