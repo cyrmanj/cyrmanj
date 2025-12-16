@@ -8,7 +8,7 @@ I am certified in **Data Analysis (FundaTEC)** and have hands-on experience with
 ---
 
 ## 🔧 Technical Skills  
-- **Data Analysis & ETL:** Python, SQL (CTEs), Alteryx, Excel (Advanced)  
+- **Data Analysis & ETL:** Python, SQL, Alteryx, Excel (Advanced)  
 - **Business Intelligence:** Power BI, AWS QuickSight  
 - **Cloud:** AWS Cloud Practitioner, AWS Data Analytics  
 - **Automation:** End-to-end workflow design, dashboard automation, KPI consolidation  
