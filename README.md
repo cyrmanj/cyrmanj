@@ -75,6 +75,8 @@ Leading automation initiatives across international payroll teams to drive effic
 - ETL workflows & automation solutions  
 - Power BI dashboards  
 - AWS analytics & reporting experiments  
-- Portfolio of end-to-end analytics solutions  
+- Portfolio of end-to-end analytics solutions
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrmanj&layout=donut&langs_count=8)
 
 Thanks for visiting my profile! 🚀
