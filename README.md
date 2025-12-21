@@ -77,6 +77,8 @@ Leading automation initiatives across international payroll teams to drive effic
 - AWS analytics & reporting experiments  
 - Portfolio of end-to-end analytics solutions
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyrmanj)
+## 📊 Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrmanj&layout=donut)
+
 
 Thanks for visiting my profile! 🚀
