@@ -78,7 +78,7 @@ Leading automation initiatives across international payroll teams to drive effic
 - Portfolio of end-to-end analytics solutions
   
 ## 📊 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrmanj&layout=donut)
+![My GitHub Stats](images/userstats.svg)
 
 
 Thanks for visiting my profile! 🚀
