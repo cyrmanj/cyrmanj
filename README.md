@@ -79,9 +79,9 @@ Leading automation initiatives across international payroll teams to drive effic
 
 ## 🚴‍♂️ Interests
 
-- **Mountain Biking** – Disciplined training focused on consistency, performance metrics, and continuous improvement. Nerd for cycling metrics.
-- **Cars & Motorcycles** – Passionate about driving, mechanical systems, and performance optimization.
-- **DSLR Photography** – Enthusiast photographer of nature and/or my other interests, such as motorcycles, cars, cycling.
+- **Mountain Biking:** Disciplined training focused on consistency, performance metrics, and continuous improvement. Nerd for cycling metrics.
+- **Cars & Motorcycles:** Passionate about driving, mechanical systems, and performance optimization.
+- **DSLR Photography:** Enthusiast photographer of nature and/or my other interests, such as motorcycles, cars, cycling.
 
 
 ## 📊 Languages/Stats:
