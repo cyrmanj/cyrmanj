@@ -76,8 +76,15 @@ Leading automation initiatives across international payroll teams to drive effic
 - Power BI dashboards  
 - AWS analytics & reporting experiments  
 - Portfolio of end-to-end analytics solutions
-  
-## 📊 Languages
+
+## 🚴‍♂️ Interests
+
+- **Mountain Biking** – Disciplined training focused on consistency, performance metrics, and continuous improvement. Nerd for cycling metrics.
+- **Cars & Motorcycles** – Passionate about driving, mechanical systems, and performance optimization.
+- **DSLR Photography** – Enthusiast photographer of nature and/or my other interests, such as motorcycles, cars, cycling.
+
+
+## 📊 Languages/Stats:
 ![My GitHub Stats](images/userstats.svg)
 
 
