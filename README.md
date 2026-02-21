@@ -18,7 +18,7 @@ I am certified in **Data Analysis (FundaTEC)** and have hands-on experience with
 
 ## 📌 Featured Experience & Impact
 
-### **Amazon — Payroll OE (SSA) Manager (2021–Present)**  
+### **Amazon — Payroll OE (SSA) Manager (2021–2025)**  
 Leading automation initiatives across international payroll teams to drive efficiency, visibility, and process accuracy.
 
 - Led full automation lifecycle — requirements → workflow design → validation → deployment.  
