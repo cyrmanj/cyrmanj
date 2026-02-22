@@ -47,6 +47,7 @@ Leading automation initiatives across international payroll teams to drive effic
 
 ## 🎓 Education  
 **Data Analysis Technical Program — Tecnológico de Costa Rica**
+
 **B.S. in Computer Science — UNED de Costa Rica | Expected Graduation: Dec 2030**
 
 ---
