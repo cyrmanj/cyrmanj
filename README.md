@@ -5,6 +5,8 @@ With 16+ years of experience in multinational and financial organizations, I spe
 
 I am certified in **Data Analysis (FundaTEC)** and have hands-on experience with **AWS analytics tools**, ETL optimization, and business intelligence solutions.
 
+Currently in progress, B.S. in Computer Science from **UNED de Costa Rica**
+
 ---
 
 ## 🔧 Technical Skills  
