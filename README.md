@@ -70,7 +70,6 @@ Leading automation initiatives across international payroll teams to drive effic
 ## 📬 Contact  
 - **Email:** cyrmanj@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/abraham-cyrmanj/  
-- **CV:** [Download CV](./Abraham_Cyrman_Jimenez_CV.pdf)
 
 ---
 
