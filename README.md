@@ -20,6 +20,14 @@ Currently in progress, B.S. in Computer Science from **UNED de Costa Rica**
 
 ## 📌 Featured Experience & Impact
 
+### Excel Nearshore — Senior BI Data Analyst (2026–Present)
+
+Managing BI deployment and data integration to drive strategic, data-driven decisions within a highly regulated MedTech environment.
+
+* **Power BI Cloud Management:** Overseeing the cloud environment to develop, deploy, and maintain high-impact dashboards and enterprise reports.
+* **Complex Data Integration:** Synthesizing disparate data streams from **Oracle EBS, Salesforce, and Hyperion** into unified data models for deep-dive analytics.
+* **Cross-Functional Collaboration:** Partnering directly with Finance and BI teams to deliver compliant, actionable insights that enable critical executive decision-making.
+
 ### **Amazon — Payroll OE (SSA) Manager (2021–2025)**  
 Leading automation initiatives across international payroll teams to drive efficiency, visibility, and process accuracy.
 
